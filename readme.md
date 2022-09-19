@@ -23,11 +23,7 @@ source ./venv/bin/activate
 ```
 .\venv\Scripts\activate
 ```
-### Instalamos las dependencias
+### Para instalar las dependencias necesarias
 ```
 pip install -r requirements.txt
-```
-### Por úiltimo ejecutamos el programa
-```
-python3 TodoApp.py
 ```
